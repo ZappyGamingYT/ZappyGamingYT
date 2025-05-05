@@ -16,7 +16,7 @@
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, Python, Javascript but I'm always willing to learn new things! I am 23 years old and I live in the Netherlands. I have about 9 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, Python, Javascript but I'm always willing to learn new things! I am 24 years old and I live in the Netherlands. I have about 9 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/1022561762106671225"> <img src="https://discord.c99.nl/widget/theme-2/1022561762106671225.png" alt="contact mee">
